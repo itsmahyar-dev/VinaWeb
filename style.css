@@ -246,7 +246,7 @@ body {
 
 .about-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1.4fr 1fr;
   gap: 60px;
   align-items: center;
 }
@@ -629,7 +629,7 @@ footer {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 897px) {
   .navbar {
     flex-direction: column;
 
